@@ -43,5 +43,6 @@
     width: 100%;
     transform: translateY(250%);
     text-align: center;
+    justify-content: center;
 }
    
