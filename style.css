@@ -22,20 +22,26 @@
 .logo{
     width: 120px;
 }
+
 .navbar ul li{
     list-style: none;
+    display: inline-block;
+    margin: 20px;
+
 }
    
    
 .navbar ul li a{
      text-decoration: none;
-     display: flex;
-     margin: 0px 50px;
      text-transform: uppercase;
+     color: black;
+     font-weight: bold;
+ 
      
 }
 .content{
     width: 100%;
     transform: translateY(250%);
+    text-align: center;
 }
    
